@@ -73,12 +73,4 @@ The system has the solution:
 
 ---
 
-## Project Structure
 
-```text
-Mathematics-Mini-Project/
-│
-├── README.md
-├── teammate1/
-├── teammate2/
-└── teammate3/
