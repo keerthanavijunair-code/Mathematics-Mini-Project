@@ -1,12 +1,5 @@
 """
 Linear Algebra Mini-Project - desktop application (PySide6)
-PES University
-
-Run with:  python gui.py
-
-This file only builds the interface. All mathematics comes from your
-existing modules (program, diagnostics, independence, gram_schmidt,
-qr_factorization, least_squares), which are imported and called unchanged.
 """
 
 import os
